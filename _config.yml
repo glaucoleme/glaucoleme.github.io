@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Bug Busters Engenharia
+description: Consultoria e desenvolvimento de software em nuvem
+
+# (Opcional) Links para redes sociais ou outros
+# github_username: bugbusters
+# linkedin_username: bugbusters
+# twitter_username: bugbusters
+
+# (Opcional) Configurações adicionais
+show_downloads: false
