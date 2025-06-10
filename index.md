@@ -69,6 +69,7 @@ permalink: /
 </style>
 
 <header>
+  <img src="/assets/img/logo.png" alt="Bug Busters Logo" class="logo" />
   <h1>Bug Busters Engenharia</h1>
 </header>
 
@@ -84,7 +85,10 @@ permalink: /
     <li><strong>E-mail:</strong> <a href="mailto:contato@bugbusters.eng.br">contato@bugbusters.eng.br</a></li>
     <li><strong>WhatsApp:</strong> +55 31 98825-2263</li>
   </ul>
-  <h3>Estamos localizados em Mariana, Minas Gerais, Brasil</h3>
+  Estamos localizados em Mariana, Minas Gerais, Brasil.
 </section>
 
+<footer>
+  &copy; 2025 Bug Busters Engenharia — Todos os direitos reservados
+</footer>
 
