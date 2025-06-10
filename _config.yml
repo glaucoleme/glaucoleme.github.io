@@ -9,3 +9,5 @@ description: Consultoria e desenvolvimento de software em nuvem
 
 # (Opcional) Configurações adicionais
 show_downloads: false
+includes:
+  - head.html
