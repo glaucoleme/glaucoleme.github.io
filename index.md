@@ -62,14 +62,22 @@ permalink: /
   a:hover {
     text-decoration: underline;
   }
+  
   footer {
     margin-top: 3rem;
     text-align: center;
   }
+
+  .logo {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+  }
 </style>
 
 <header>
-  <img src="/assets/img/logo.png" alt="Bug Busters Logo" class="logo" />
+  <img src="/assets/img/logo.png" alt="Bug Busters Logo" class=".logo" />
   <h1>Bug Busters Engenharia</h1>
 </header>
 
@@ -86,6 +94,11 @@ permalink: /
     <li><strong>WhatsApp:</strong> +55 31 98825-2263</li>
   </ul>
   Estamos localizados em Mariana, Minas Gerais, Brasil.
+</section>
+
+<section>
+  <h2>Política de privacidade</h2>
+  [Leia nossa Política de Privacidade aqui](/politicaprivacidade)
 </section>
 
 <footer>
