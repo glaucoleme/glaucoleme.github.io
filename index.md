@@ -98,7 +98,7 @@ permalink: /
 
 <section>
   <h2>Política de privacidade</h2>
-  [Leia nossa Política de Privacidade aqui](/politicaprivacidade)
+  <a href="https://bugbusters.eng.br/politicaprivacidade">Leia nossa Política de Privacidade aqui</a>
 </section>
 
 <footer>
